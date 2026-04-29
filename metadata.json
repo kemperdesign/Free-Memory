@@ -1,0 +1,6 @@
+{
+  "name": "PC Pulse",
+  "description": "AI-powered dashboard to monitor processes, optimize system memory, and identify unnecessary files on your PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
